@@ -1,6 +1,6 @@
 # Changelog
 
-## [2.2.0] - 2024-07-31
+## [2.2.0] - 2025-07-31
 
 ### Added
 - New `_product_class` metadata field
@@ -20,7 +20,7 @@
 - Price display structure for screen readers
 - Empty taxonomy terms handling
 
-## [2.1.0] - 2024-06-15
+## [2.1.0] - 2025-06-15
 
 ### Added
 - PEWC (Product Extra Fields) integration
@@ -35,7 +35,7 @@
 - Discount detection for products without sale prices
 - Taxonomy hierarchy processing for nested categories
 
-## [2.0.0] - 2024-05-20
+## [2.0.0] - 2025-05-20
 
 ### Added
 - Complete plugin rewrite with modular architecture
@@ -50,7 +50,7 @@
 - Moved from database storage to dynamic computation
 - Improved performance with on-demand processing
 
-## [1.0.0] - 2024-01-15
+## [1.0.0] - 2025-01-15
 
 ### Added
 - Initial plugin release
