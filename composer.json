@@ -1,0 +1,41 @@
+{
+    "name": "ale-aruca/doofinder-sync-wordpress-plugin",
+    "description": "WordPress plugin for Doofinder integration with WooCommerce - Dynamic meta injection and product synchronization",
+    "type": "wordpress-plugin",
+    "keywords": [
+        "wordpress",
+        "woocommerce",
+        "doofinder",
+        "search",
+        "ecommerce",
+        "plugin",
+        "metadata"
+    ],
+    "homepage": "https://github.com/ale-aruca/doofinder-sync-wordpress-plugin",
+    "license": "GPL-2.0-or-later",
+    "authors": [
+        {
+            "name": "Ale Aruca",
+            "role": "Developer"
+        },
+        {
+            "name": "Muhammad Adeel",
+            "role": "Developer"
+        }
+    ],
+    "support": {
+        "issues": "https://github.com/ale-aruca/doofinder-sync-wordpress-plugin/issues",
+        "source": "https://github.com/ale-aruca/doofinder-sync-wordpress-plugin"
+    },
+    "require": {
+        "php": ">=7.4"
+    },
+    "autoload": {
+        "files": [
+            "doofinder-sync.php"
+        ]
+    },
+    "extra": {
+        "installer-name": "doofinder-sync"
+    }
+}
