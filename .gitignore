@@ -1,0 +1,41 @@
+# WordPress
+wp-config.php
+wp-content/uploads/
+wp-content/cache/
+
+# Node.js
+node_modules/
+npm-debug.log*
+
+# Composer
+/vendor/
+composer.lock
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*~
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Testing
+/tests/coverage/
+/tests/tmp/
+
+# Build
+/build/
+/dist/
+
+# Logs
+*.log
+debug.log
+
+# Environment
+.env
+.env.local
+
+# Plugin specific
+*.zip
